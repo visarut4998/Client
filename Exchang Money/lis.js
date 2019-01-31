@@ -1,0 +1,1 @@
+module.exports.thisarray = () => number = 0.032
